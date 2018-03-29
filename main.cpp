@@ -11,7 +11,6 @@ int main()
 
         if(in.is_open())
         {
-                cout<<"open"<<endl;
                 in>>first;
         }
 
